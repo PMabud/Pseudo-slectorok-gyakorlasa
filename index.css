@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    border: 2px solid black;
+    margin:0;
+    width: 100px;
+    height:30px;
+    text-align: center;
+}
+
+p:hover{
+    background-color:orange;
+}
